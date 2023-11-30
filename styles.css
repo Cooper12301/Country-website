@@ -1,0 +1,39 @@
+h1{
+    font-family: cursive;
+    color: chartreuse;
+
+}
+
+img{
+    width: 30vw;
+    height: auto;
+}
+
+
+.list{list-style: none;
+border-style: dashed;
+width: vw;
+margin: auto;
+padding-left: 0%;
+text-align: center;
+}
+
+.list>li{
+border-style: double;
+display: inline-block;
+background-color: cadetblue;
+color: antiquewhite;
+
+
+}
+
+
+.list>li>a{
+    color: aliceblue;
+}
+
+
+.list>li>a:hover{
+    background-color: azure;
+    color: black;
+}
